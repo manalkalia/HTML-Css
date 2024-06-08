@@ -1,0 +1,41 @@
+.header{
+    width:200;
+    height:150;
+}
+
+p{color:#0000FF}
+
+.item:hover img{
+opacity: 0.5;
+}
+
+.footer{border:solid}
+
+.footer img{
+width:50;
+height:50;
+}
+
+body{
+    background-color: #13d313;
+}
+
+h1{
+    color: #FFFF00;
+}
+
+h2{
+    color:#00FFFF
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    
+    justify-content:space-evenly;
+
+}
+
+.item{
+    
+}
